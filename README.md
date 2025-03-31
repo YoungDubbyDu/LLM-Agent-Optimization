@@ -263,4 +263,7 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Lemur: Harmonizing Natural Language and Code for Language Agents (**ICLR** **2024**) [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology (**FORGE 2025**) [[paper](https://arxiv.org/abs/2406.11912)] [[code](https://github.com/FSoft-AI4Code/AgileCoder)]
 
- 
+
+ ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YoungDubbyDu/LLM-Agent-Optimization&type=Date)](https://www.star-history.com/#YoungDubbyDu/LLM-Agent-Optimization&Date)
