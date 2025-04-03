@@ -37,7 +37,7 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - NLRL: Natural Language Reinforcement Learning (arXiv 2024) [[paper](https://arxiv.org/abs/2411.14251)] [[code](https://github.com/waterhorse1/Natural-language-RL)]
 - AGILE: A Novel Reinforcement Learning Framework of LLM Agents (NeurIPS 2024) [[paper](https://arxiv.org/abs/2405.14751)] [[code](https://github.com/bytarnish/AGILE)]
 - COEVOL: Constructing Better Responses for Instruction Finetuning through Multi-Agent Cooperation (arXiv 2024) [[paper](https://arxiv.org/abs/2406.07054)] [[code](https://github.com/lirenhao1997/CoEvol)]
-- E2CL: Exploration-based Error Correction Learning for Embodied Agents (EMNLP 2024) [[paper](https://aclanthology.org/2024.findings-emnlp.448/)][[code](https://github.com/WangHanLinHenry/E2CL)]
+- E2CL: Exploration-based Error Correction Learning for Embodied Agents (EMNLP-Findings 2024) [[paper](https://aclanthology.org/2024.findings-emnlp.448/)][[code](https://github.com/WangHanLinHenry/E2CL)]
 - STeCa: Step-level Trajectory Calibration for LLM Agent Learning (arXiv 2025) [[paper](https://arxiv.org/abs/2502.14276)][[code](https://github.com/WangHanLinHenry/STeCa)]
 
 ## Reinforcement Learning-based
