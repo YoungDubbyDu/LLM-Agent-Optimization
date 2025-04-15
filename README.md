@@ -265,6 +265,23 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Lemur: Harmonizing Natural Language and Code for Language Agents (**ICLR** **2024**) [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology (**FORGE 2025**) [[paper](https://arxiv.org/abs/2406.11912)] [[code](https://github.com/FSoft-AI4Code/AgileCoder)]
 
+## 📄 Citation
+
+If you find this project or the related paper helpful, please consider citing our work:
+
+**A Survey on the Optimization of Large Language Model-based Agents**   📚 [arXiv:2503.12434](https://arxiv.org/abs/2503.12434)
+
+```bibtex
+@misc{du2025surveyoptimizationlargelanguage,
+  title={A Survey on the Optimization of Large Language Model-based Agents}, 
+  author={Shangheng Du and Jiabao Zhao and Jinxin Shi and Zhentao Xie and Xin Jiang and Yanhong Bai and Liang He},
+  year={2025},
+  eprint={2503.12434},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2503.12434}
+}
+```
 
 ## Star History
 
