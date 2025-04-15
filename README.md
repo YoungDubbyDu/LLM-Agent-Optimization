@@ -272,14 +272,11 @@ If you find this project or the related paper helpful, please consider citing ou
 **A Survey on the Optimization of Large Language Model-based Agents**   📚 [arXiv:2503.12434](https://arxiv.org/abs/2503.12434)
 
 ```bibtex
-@misc{du2025surveyoptimizationlargelanguage,
-  title={A Survey on the Optimization of Large Language Model-based Agents}, 
-  author={Shangheng Du and Jiabao Zhao and Jinxin Shi and Zhentao Xie and Xin Jiang and Yanhong Bai and Liang He},
-  year={2025},
-  eprint={2503.12434},
-  archivePrefix={arXiv},
-  primaryClass={cs.AI},
-  url={https://arxiv.org/abs/2503.12434}
+@article{du2025survey,
+  title={A Survey on the Optimization of Large Language Model-based Agents},
+  author={Du, Shangheng and Zhao, Jiabao and Shi, Jinxin and Xie, Zhentao and Jiang, Xin and Bai, Yanhong and He, Liang},
+  journal={arXiv preprint arXiv:2503.12434},
+  year={2025}
 }
 ```
 
