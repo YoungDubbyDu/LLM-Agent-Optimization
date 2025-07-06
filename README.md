@@ -39,7 +39,13 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - COEVOL: Constructing Better Responses for Instruction Finetuning through Multi-Agent Cooperation (arXiv 2024) [[paper](https://arxiv.org/abs/2406.07054)] [[code](https://github.com/lirenhao1997/CoEvol)]
 - E2CL: Exploration-based Error Correction Learning for Embodied Agents (EMNLP-Findings 2024) [[paper](https://aclanthology.org/2024.findings-emnlp.448/)][[code](https://github.com/WangHanLinHenry/E2CL)]
 - STeCa: Step-level Trajectory Calibration for LLM Agent Learning (arXiv 2025) [[paper](https://arxiv.org/abs/2502.14276)][[code](https://github.com/WangHanLinHenry/STeCa)]
-
+- Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2411.14497)] [[code](https://github.com/CANGLETIAN/Star-Agents)]
+- ATLaS: Agent Tuning via Learning Critical Steps (**ACL 2025**) [[paper](https://arxiv.org/abs/2503.02197)]
+- Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2502.02533)]
+- Agent Planning with World Knowledge Model (**NeurIPS 2024**) [[paper](https://arxiv.org/pdf/2405.14205)] [[code](https://github.com/zjunlp/WKM)]
+- MULTIAGENT FINETUNING: SELF IMPROVEMENT WITH DIVERSE REASONING CHAINS (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.05707)] [[code](https://github.com/vsubramaniam851/multiagent-ft)]
+- Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning (**ACL 2025**) [[paper](https://arxiv.org/pdf/2412.14780)]
+- 
 ## Reinforcement Learning-based
 
 - CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models  (arXiv 2024) [[paper](https://arxiv.org/pdf/2404.01663)] [[code](https://github.com/heimy2000/CMAT)]
@@ -58,6 +64,13 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - EPO: Hierarchical LLM Agents with Environment Preference Optimization (EMNLP 2024) [[paper](https://arxiv.org/abs/2408.16090)] [[code](https://github.com/kevinz8866/EPO)]
 - Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement (EMNLP 2024) [[paper](https://arxiv.org/abs/2406.11176)] [[code](https://github.com/WeiminXiong/IPR)]
 - AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback (NeurIPS 2024) [[paper](https://arxiv.org/abs/2402.01469)] [[code](https://github.com/JianGuanTHU/AMOR)]
+- SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2503.15478)] [[code](https://github.com/facebookresearch/sweet_rl)]
+- Reinforcing Language Agents via Policy Optimization with Action Decomposition (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2405.15821)] [[code](https://github.com/morning9393/ADRL)]
+- STeCa: Step-level Trajectory Calibration for LLM Agent Learning (arXiv 2025) [[paper](https://arxiv.org/abs/2502.14276)][[code](https://github.com/WangHanLinHenry/STeCa)]
+- DITS: Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.00955)]
+- EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning (**ACL 2025**) [[paper](https://arxiv.org/abs/2502.12486)] [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/EPO)]
+- DAPO: Decoupled Clip and Dynamic Sampling Policy Optimization (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2503.14476)]
+- MARFT: Multi-Agent Reinforcement Fine-Tuning (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2504.16129)] [[code](https://github.com/jwliao-ai/MARFT)]
 
 ## Hybrid Fine-Tuning Optimization
 
@@ -71,7 +84,8 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement (EMNLP 2024) [[paper](https://arxiv.org/abs/2406.11176)] [[code](https://github.com/WeiminXiong/IPR)]
 - Retrospex: Language Agent Meets Offline Reinforcement Learning Critic (EMNLP 2024) [[paper](https://aclanthology.org/2024.emnlp-main.268/)] [[code](https://github.com/Yufei-Xiang/Retrospex)]
 - ENVISION:Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models (arXiv 2024) [[paper](https://arxiv.org/abs/2406.11736)] [[code](https://github.com/xufangzhi/ENVISIONS)]
-
+- DITS: Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.00955)]
+- 
 # Parameter-Free Optimization
 
 ## Experience-based 
@@ -99,6 +113,7 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (arXiv 2024) [[paper](https://arxiv.org/abs/2308.02151)]
 - SELF-TUNING: Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching (arXiv 2024) [[paper](https://arxiv.org/pdf/2406.06326)]
 - OPRO: LARGE LANGUAGE MODELS AS OPTIMIZERS (ICLR 2024) [[paper](https://arxiv.org/abs/2309.03409)] [[code](https://github.com/google-deepmind/opro)]
+- MPO: Boosting LLM Agents with Meta Plan Optimization (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.02682)]
 
 ## Tool-based
 
@@ -109,6 +124,8 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Lyra: Orchestrating Dual Correction in Automated Theorem Proving (**TMLR 2024**) [[paper](https://arxiv.org/abs/2309.15806)] [[code](https://github.com/chuanyang-zheng/lyra-theorem-prover)]
 - Offline Training of Language Model Agents with Functions as Learnable Weights (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2402.11359)]
 - VideoAgent: A Memory-Augmented Multimodal Agent for Video Understanding (**ECCV 2024**) [[paper](https://arxiv.org/pdf/2403.11481)] [[code](https://videoagent.github.io)]
+- ALITA: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution (**arXiv 2025**) [[paper](https://arxiv.org/abs/2505.20286)] [[code](https://github.com/CharlesQ9/Alita)]
+- Search-o1: Agentic Search-Enhanced Large Reasoning Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2501.05366)] [[code](https://github.com/sunnynexus/Search-o1)]
 
 ## RAG-based 
 
@@ -118,6 +135,7 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2402.03610)] [[code](https://github.com/PanasonicConnect/rap)]
 - MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2408.01869v1)] [[code](https://github.com/jihyechoi77/malade)]
 - PaperQA: Retrieval-Augmented Generative Agent for Scientific Research (**arXiv 2023**) [[paper](https://arxiv.org/abs/2312.07559)] [[code](https://github.com/future-house/paper-qa)]
+- Search-o1: Agentic Search-Enhanced Large Reasoning Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2501.05366)] [[code](https://github.com/sunnynexus/Search-o1)]
 
 ## Multi-Agent 
 
@@ -186,6 +204,10 @@ This is the reading list for the survey "A Survey of LLM-based Agents Optimizati
 - Just-Eval: The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning (**ICLR** **2024**) [[paper](https://arxiv.org/abs/2312.01552)] [[code](https://github.com/Re-Align/just-eval)]
 - StreamBench: Towards Benchmarking Continuous Improvement of Language Agents (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2406.08747)] [[code](https://github.com/stream-bench/stream-bench)]
 - AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agent (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2401.13178)] [[code](https://github.com/hkust-nlp/AgentBoard)]
+- GAIA: A Benchmark for General AI Assistants (**arXiv 2023**) [[paper](https://arxiv.org/abs/2311.12983)] [[code](https://huggingface.co/gaia-benchmark)]
+- Humanity’s Last Exam (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.14249)] [[code](https://huggingface.co/datasets/cais/hle)]
+- NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.03797v3)] [[code](https://github.com/IBM/NESTFUL)]
+- MCP_RADAR: Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2505.16700)] [[code](https://anonymous.4open.science/r/MCPRadar-B143)]
 
 # Application
 
