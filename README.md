@@ -1,5 +1,5 @@
 # LLM-Agent-Optimization
-This is the reading list for the survey "A Survey of LLM-based Agents Optimization", which systematically explores optimization techniques for enhancing LLM-based agents. The survey categorizes existing works into parameter-driven optimization, parameter-free optimization, datasets and benchmarks, and real-world applications. We will keep adding papers and improving the list. Any suggestions and PRs are welcome!
+This is the reading list for the survey **"A Survey of LLM-based Agents Optimization" ([Paper Link](https://arxiv.org/abs/2503.12434))**, which systematically explores various optimization techniques for enhancing LLM-based agents. The survey categorizes existing works into parameter-driven optimization, parameter-free optimization, datasets and benchmarks, and real-world applications. We will keep adding papers and improving the list. Any suggestions and PRs are welcome!
 
 
 <div align="center">
